@@ -10,6 +10,7 @@ Discord - sends the link to the streamers Discord <br />
 Rank - Displays the streamers RL Rank <br />
 UpTime - Will display how long the stream has been active for <br />
 FollowAge - Will return how long the requester has been following the streamer <br />
+Commands - Will bring you here! <br />
 
 Echo (String) - the bot will repeat whatever string you give it back (As long as it isnt profanity of course) <br />
 
