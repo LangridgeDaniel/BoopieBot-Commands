@@ -14,6 +14,6 @@ Commands - Will bring you here! <br />
 
 Echo (String) - the bot will repeat whatever string you give it back (As long as it isnt profanity of course) <br />
 
-TransferPoints @reciever (points to be given) - Will transfer the number of points specified to the reciever specified. <br />
+TransferPoints reciever (points to be given) - Will transfer the number of points specified to the reciever specified. <br />
 
 @Boopie_Bot Hi (or other permutations of hi) or Hi @boopie_Bot and he will say hi back! <br />
